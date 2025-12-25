@@ -1,0 +1,4 @@
+prompt-toolkit>=3.0.0
+rich>=10.0.0
+pyperclip==1.10.0
+psutil
