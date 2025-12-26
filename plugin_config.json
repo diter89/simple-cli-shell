@@ -1,0 +1,44 @@
+{
+  "clock_plugin": {
+    "enabled": true,
+    "update_interval": 1
+  },
+  "cpu_plugin": {
+    "enabled": true,
+    "update_interval": 3
+  },
+  "git_status_plugin": {
+    "enabled": true,
+    "update_interval": 5
+  },
+  "memory_plugin": {
+    "enabled": true,
+    "update_interval": 5
+  },
+  "battery_plugin": {
+    "enabled": true,
+    "update_interval": 2
+  },
+  "plugins": {
+    "clock": {
+      "enabled": true,
+      "update_interval": 1
+    },
+    "cpu": {
+      "enabled": true,
+      "update_interval": 3
+    },
+    "memory": {
+      "enabled": true,
+      "update_interval": 5
+    },
+    "battery": {
+      "enabled": true,
+      "update_interval": 1
+    },
+    "git_status": {
+      "enabled": true,
+      "update_interval": 1
+    }
+  }
+}
