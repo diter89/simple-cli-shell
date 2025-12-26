@@ -1,6 +1,6 @@
-# Simple-cli
+# Simple-cli-shell
 
-**Simple-cli** is an enhanced shell wrapper with rich UI, multi-shell completion, and environment detection.
+**Simple-cli-shell** is an enhanced shell wrapper with rich UI, multi-shell completion, and environment detection.
 
 Experimental / Toy Project | **License:** MIT (use/modify freely, no restrictions)  
 **As-is:** No warranty, no support
